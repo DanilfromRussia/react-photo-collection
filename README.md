@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+https://github.com/DanilfromRussia/react-photo-collection/assets/48985586/075428a1-70c1-43f8-8ac1-76dcaa05e591
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
